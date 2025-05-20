@@ -2,6 +2,8 @@
 MemoEase is a simple note taking app built using **PENN** stack, i.e., PostgreSQL, Express.js, Node.js and Next.js. The language used is TypeScript. For designing, I have used Tailwind CSS.
 Prisma was used as ORM.
 
+> ⚠️ This project was originally developed and published under [my old GitHub account](https://github.com/swapn652/MemoEase), which I no longer have access to.
+
 # Link to Blog
 https://swapn652.hashnode.dev/penn-stack-mastery-building-a-full-stack-project-with-postgres-express-nodejs-nextjs-and-typescript
 
